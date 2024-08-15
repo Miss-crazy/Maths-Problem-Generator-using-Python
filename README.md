@@ -1,1 +1,2 @@
 # Maths-Problem-Generator-using-Python
+This is a very basic beginner friendly project using python.All i have done is imported random module and then used it to randomly generate numbers between any given range and stored there values in left and right variable.I did the same with generating operator and then i made it into an expression which i used to display the question to the user and also to find its answer using "eval()".That is pretty much the whole logic about this project and the rest of the program is very customizable.
